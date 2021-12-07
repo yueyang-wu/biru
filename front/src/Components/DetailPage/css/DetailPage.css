@@ -1,0 +1,118 @@
+.detail-header {
+  position: fixed;
+  top: 70px;
+  left: 0;
+  right: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 45px;
+  padding-right: 45px;
+  background: white;
+}
+
+.go-back-link {
+  color: black;
+  margin-right: 20px;
+  margin-top: 17px;
+  vertical-align: top;
+}
+
+.beer-detail-title {
+  display: inline-block;
+  font-size: 1.75rem;
+}
+
+.beer-detail-container {
+  margin-top: 137px;
+}
+
+.beer-detail-img-container {
+  display: inline-block;
+  height: 400px;
+  width: 300px;
+  margin: 10px;
+  text-align: center;
+}
+
+.beer-detail-img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.beer-detail-info-container {
+  display: inline-block;
+  margin: 10px;
+}
+
+.beer-detail-label {
+  display: inline-block;
+  width: 85px;
+}
+
+.beer-detail-value {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.beer-detail-like-icon,
+.beer-detail-dislike-icon {
+  font-size: 23px;
+  cursor: pointer;
+}
+
+.beer-detail-like-icon-disabled,
+.beer-detail-dislike-icon-disabled {
+  font-size: 23px;
+  cursor: default;
+}
+
+.beer-detail-dislike-icon {
+  vertical-align: bottom;
+}
+
+.comment-input {
+  margin-bottom: 60px;
+}
+
+.comment-input-textarea {
+  width: 100%;
+  resize: none;
+  padding: 5px;
+}
+
+.cancel-btn,
+.submit-btn {
+  float: right;
+  margin: 1px;
+}
+
+.pagination-icon {
+  margin: 5px;
+  cursor: pointer;
+}
+
+.pagination-icon-disabled {
+  margin: 5px;
+  cursor: not-allowed;
+}
+
+.single-comment {
+  border-top: 1px solid black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.user-icon {
+  color: black;
+}
+
+.comment-user-name {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.photo-credit {
+  margin-top: 45px;
+  text-align: right;
+  font-size: 15px;
+}

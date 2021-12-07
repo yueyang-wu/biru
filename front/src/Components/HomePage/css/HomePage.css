@@ -1,0 +1,58 @@
+.selector {
+  display: inline-block;
+  margin-right: 1%;
+  width: 24%;
+}
+
+.home-header {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 45px;
+  padding-right: 45px;
+  background: white;
+}
+
+.beers-container {
+  padding-left: 0.5vw;
+  padding-right: 0.5vw;
+}
+
+.beer {
+  display: inline-block;
+}
+
+.beer-img-container {
+  height: 15vw;
+  width: 15vw;
+  margin: 1vw;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.beer-img {
+  max-width: 100%;
+  position: absolute;
+  top: 46%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.beer-text {
+  display: none; /* TODO: add this back */
+  font-size: 18px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+}
+
+.dislike-icon {
+  vertical-align: bottom;
+}
+
+.photo-credit {
+  margin-top: 45px;
+  text-align: right;
+  font-size: 15px;
+}
