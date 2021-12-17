@@ -30,13 +30,13 @@ To avoid the high cost, this project has been taken down from AWS. Please refer 
 ### Comments
 ![Comments](https://drive.google.com/uc?export=view&id=1BN4BHGQtKOMPrEk3S8UPJYaYavXbM0pY)
 
-# Web Application
+# More about Web Application
 ## Author
-Zhangzhang Li & Na Lou
+Zhangzhang Li & Na Lou <br />
 https://github.com/gloria20070108/biru-biru
 
 ## Phote Credit
-Chuan Zhang
+Chuan Zhang <br />
 George Cox on Unsplash: https://unsplash.com/photos/l9Z93oauxgs
 
 ## Tech
