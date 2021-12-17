@@ -16,7 +16,7 @@ EC2 | VPC | Security Group | Internet Gateway | Load Balancer | Auto-scaling Gro
 
 ## Demo
 To avoid the high cost, this project has been taken down from AWS. Please refer to the demos to see how this app is running on AWS. 
-- Web App on AWS: https://youtu.be/ZjJIaf_jo7k
+- Web App on AWS: https://youtu.be/ZjJIaf_jo7k (video credit to Na Lou)
 - AWS Auto-scaling Group: https://www.youtube.com/watch?v=iZLVcIlVAXs
   - This video aims to demonstrate that the auto-scaling group works as expected. The instance capacity range is 2-6 and the scaling policy is that CUP utilization is 80%. Therefore, if we terminate one of the instances, the auto-scaling group will automatically launch another one. Also, the actual CPU utilization is only around 0.3% so there won't be any more instances launched automatically. 
 ### Home Page
